@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 th {
@@ -9,20 +9,12 @@ th {
 td {
   border: solid 1px #ccc;
   vertical-align: top;
-  text-align: right;
   height: 11em;
 }
 
-caption {
-  text-align:center;
-}
-
 li {
-  list-style-type: none;
   border: solid 2px;
   border-radius: 8px;
-  padding: 4px;
-  text-align:left;
 }
 
 .tv {
